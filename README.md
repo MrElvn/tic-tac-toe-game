@@ -15,9 +15,6 @@ This is a modern and responsive Tic Tac Toe web game built using HTML, CSS, and 
 - CSS3
 - Vanilla JavaScript
 
-📷 Preview
-![Game Screenshot](https://via.placeholder.com/400x200.png?text=Game+Preview)
-
 📂 How to Run
 1. Download or clone the repo
 2. Open index.html in your browser
